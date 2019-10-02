@@ -2,7 +2,7 @@
 
 <img align="right" width="100" height="100" src="img/mike.jpg">
 
-**Dr. Michael S. Allen** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Dr. Michael S. Allen** Dr. Allen is an associate professor in the Department of Microbiology, Immunology, and Genetics and the director of the Tick-borne Disease Testing Laboratory. He received his Ph.D. in Microbiology from the University of Tennessee and is interested in host-microbiome interactions, vector-borne microbial diseases, microbial forensics, and probiotics.
 
 ---
 
