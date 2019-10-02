@@ -6,3 +6,5 @@
 * Warinner C, Herbig A, **Mann AE**, Fellows Yates JA, Weiss CL, Burbano HA, Orlando L, Krause J. (2017) [A robust framework for microbial archaeology](https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-091416-035526). Annu. Rev. Genom. Hum. Genet. 18:321-356. 
 
 * Ziesemer KA, **Mann AE**, Sankaranarayanan K, Schroeder H, Ozga AT, Brandt BW, Zaura E, Waters-Rist A, Hoogland M, Salazar-Garcia DC, Aldenderfer M, Speller C, Hendy J, Weston DA, MacDonald SJ, Thomas GH, Collins MJ, Lewis CM, Hofman C, Warinner C*. (2015) [Intrinsic challenges in ancient microbiome reconstruction using 16S rRNA gene amplification](https://www.nature.com/articles/srep16498). Scientific Reports 5, 16498. doi: 10.1038/srep16498.
+
+[home](index.md)
