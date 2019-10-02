@@ -1,4 +1,3 @@
 theme: jekyll-theme-cayman
 title: Lyme Lab at UNTHSC
-show_downloads: true
-
+show_downloads: false
