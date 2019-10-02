@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Lyme Lab at UNTHSC
-show_downloads: false
+show_downloads: true
 github:
   is_project_page: false
