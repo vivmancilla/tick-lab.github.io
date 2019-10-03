@@ -1,6 +1,6 @@
 ## Faculty & Staff
 
-<img align="right" src="img/mike.jpg">
+<img align="right" width="100" height="100" src="img/mike.jpg">
 
 **Dr. Michael S. Allen** Dr. Allen is an associate professor in the Department of Microbiology, Immunology, and Genetics and the director of the Tick-borne Disease Testing Laboratory. He received his Ph.D. in Microbiology from the University of Tennessee and is interested in host-microbiome interactions, vector-borne microbial diseases, microbial forensics, and probiotics.
 
